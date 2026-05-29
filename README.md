@@ -1,2 +1,2 @@
 # Teacher
-This is a teacher.
+This is a teacher. 
